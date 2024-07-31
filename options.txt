@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Documents\VuGen\Scripts\FinalAssesment_2
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\administrator\documents\vugen\scripts\finalassesment_2\\logfile.log
+c:\users\administrator\documents\vugen\scripts\finalassesment_2\\combined_FinalAssesment_2.c
+c:\users\administrator\documents\vugen\scripts\finalassesment_2\\pre_cci.c
